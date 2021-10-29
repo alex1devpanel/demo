@@ -1,0 +1,12 @@
+const NS_CART = 'cart';
+
+const ADD_PRODUCT_TO_CART = 'ADD_PRODUCT_TO_CART';
+const CREATE_PAYMENT = 'CREATE_PAYMENT';
+const RESET_CART = 'RESET_CART';
+
+export default {
+  NS_CART,
+  ADD_PRODUCT_TO_CART,
+  CREATE_PAYMENT,
+  RESET_CART,
+};
